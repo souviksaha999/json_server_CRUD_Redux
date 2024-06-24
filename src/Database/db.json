@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Spriha Smith",
+      "email": "spriha@gmail.com",
+      "phone": "8677894562",
+      "id": "1"
+    },
+    {
+      "name": "Leonard Joseph Smith",
+      "email": "leo@gmail.com",
+      "phone": "7889632145",
+      "id": "2"
+    },
+    {
+      "id": "e923",
+      "name": "Souvik Saha",
+      "email": "souviksaha999@gmail.com",
+      "phone": "07278643829"
+    },
+    {
+      "name": "Suman Saha",
+      "email": "suman@gmail.com",
+      "phone": "07278143827",
+      "id": "f0bf"
+    },
+    {
+      "id": "259f",
+      "name": "Sushmita",
+      "email": "sushmita@gmail.com",
+      "phone": "07278543829"
+    },
+    {
+      "name": "Dona",
+      "email": "dona@gmail.com",
+      "phone": "0123456789",
+      "id": "a871"
+    }
+  ]
+}
